@@ -1,29 +1,16 @@
-## Me
+# Hi
 
-Hi, I'm WewennJr
-
-I'm a French IT student.
+I'm WewennJr, a French IT student.
 
 I enjoy building projects from scratch, learning new technologies, and deploying applications.
 
 # Skills
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,java,c,csharp" />
-<img src="https://skillicons.dev/icons?i=powershell,sqlite,arduino,unity,github,discord,vscode" />
-<img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,linux,ubuntu,windows" />
+I currently work with :
 
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,java,c,cs,powershell,bash,sqlite,unity,fastapi,bots,php,github,vscode,idea,webstorm,phpstorm,linux,windows,&perline=7)](https://skillicons.dev)
 
-<!--
-**WewennJr/WewennJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning :
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,vuejs,laravel&perline=7)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
