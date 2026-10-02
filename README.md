@@ -8,9 +8,9 @@ I enjoy building projects from scratch, learning new technologies, and deploying
 
 # Skills
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,bash,java,c,csharp,lua,php" />
-<img src="https://skillicons.dev/icons?i=powershell,bootstrap,sqlite,arduino,unity,github,gitlab,discord,vscode" />
-<img src="https://skillicons.dev/icons?i=intellijidea,phpstorm,linux,ubuntu,windows" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,java,c,csharp" />
+<img src="https://skillicons.dev/icons?i=powershell,sqlite,arduino,unity,github,discord,vscode" />
+<img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,linux,ubuntu,windows" />
 
 
 <!--
