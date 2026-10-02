@@ -8,7 +8,7 @@ I enjoy building projects from scratch, learning new technologies, and deploying
 
 # Skills
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,bash,java,c,csharp" />
 
 
 <!--
