@@ -1,4 +1,15 @@
-## Hi there 👋
+## Me
+
+Hi, I'm WewennJr
+
+I'm a French IT student.
+
+I enjoy building projects from scratch, learning new technologies, and deploying applications.
+
+# Skills
+
+<img src="https://skillicons.dev/icons?i=python" />
+
 
 <!--
 **WewennJr/WewennJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
