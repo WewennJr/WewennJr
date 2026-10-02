@@ -8,21 +8,9 @@ I enjoy building projects from scratch, learning new technologies, and deploying
 
 # Skills
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,bash,java,c,csharp,lua,php,powershell" />
-
-### Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=bootstrap,sqlite,arduino,unity" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=github,gitlab,discord,vscode,intellijidea,phpstorm" />
-
-### Operating Systems
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,bash,java,c,csharp,lua,php" />
+<img src="https://skillicons.dev/icons?i=powershell,bootstrap,sqlite,arduino,unity,github,gitlab,discord,vscode" />
+<img src="https://skillicons.dev/icons?i=intellijidea,phpstorm,linux,ubuntu,windows" />
 
 
 <!--
