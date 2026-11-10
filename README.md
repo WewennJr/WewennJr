@@ -21,6 +21,34 @@
 
 [![Learning](https://skillicons.dev/icons?i=nodejs,npm,vuejs,laravel&perline=7)](https://skillicons.dev)
 
+## Pinned Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WewennJr/SAE2.4-5-6_Viking_Transport">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.4-5-6_Viking_Transport&theme=tokyonight&hide_border=true" alt="SAE2.4-5-6 Viking Transport" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WewennJr/SAE2.2_OthelloGUI">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.2_OthelloGUI&theme=tokyonight&hide_border=true" alt="SAE2.2 Othello GUI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/WewennJr/SAE2.1_OthelloWithoutGUI">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.1_OthelloWithoutGUI&theme=tokyonight&hide_border=true" alt="SAE2.1 Othello" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## GitHub Stats
 
 <div align="center">
@@ -35,7 +63,5 @@
     </td>
   </tr>
 </table>
-
-[![Profile views](https://komarev.com/ghpvc/?username=WewennJr&color=5865F2&style=flat-square&label=Profile+views)](https://github.com/WewennJr)
 
 </div>
