@@ -28,8 +28,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/WewennJr/SAE2.4-5-6_Viking_Transport">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.4-5-6_Viking_Transport&theme=tokyonight&hide_border=true" alt="SAE2.4-5-6 Viking Transport" />
+      <a href="https://github.com/WewennJr/SAE2.1_OthelloWithoutGUI">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.1_OthelloWithoutGUI&theme=tokyonight&hide_border=true" alt="SAE2.1 Othello" />
       </a>
     </td>
     <td align="center">
@@ -39,9 +39,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/WewennJr/SAE2.1_OthelloWithoutGUI">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.1_OthelloWithoutGUI&theme=tokyonight&hide_border=true" alt="SAE2.1 Othello" />
+    <td align="center">
+      <a href="https://github.com/WewennJr/SAE2.4-5-6_Viking_Transport">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE2.4-5-6_Viking_Transport&theme=tokyonight&hide_border=true" alt="SAE2.4-5-6 Viking Transport" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WewennJr/SAE1.4-5-6_Lisieux">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=WewennJr&repo=SAE1.4-5-6_Lisieux&theme=tokyonight&hide_border=true" alt="SAE1.4-5-6 Lisieux" />
       </a>
     </td>
   </tr>
