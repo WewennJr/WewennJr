@@ -21,7 +21,7 @@
 
 [![Learning](https://skillicons.dev/icons?i=nodejs,npm,vuejs,laravel&perline=7)](https://skillicons.dev)
 
-## Pinned Projects
+## School Projects
 
 <div align="center">
 
