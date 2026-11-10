@@ -28,10 +28,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WewennJr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=WewennJr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WewennJr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WewennJr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
     </td>
   </tr>
 </table>
